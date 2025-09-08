@@ -11,8 +11,6 @@ Objectives:
 
     Identify most common crime types
 
-    Examine crime resolution effectiveness
-
     Discover patterns in criminal behavior
 
 Dataset:
