@@ -32,3 +32,6 @@ The dataset contains 219 records with the following columns:
     foreign_criminals: Number of foreign criminals involved
 
 Note: This project uses publicly available crime data for analytical purposes only.
+
+Source of data: data.gov.gr
+    link: https://data.gov.gr/datasets/mcp_crime
